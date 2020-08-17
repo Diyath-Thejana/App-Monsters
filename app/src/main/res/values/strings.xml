@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Booking1</string>
+    <string name="booking">Booking</string>
+    <string name="booking_details">Booking Details</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="contact_no">Contact Number</string>
+    <string name="budget">Budget</string>
+    <string name="number_of_people">No of People</string>
+    <string name="ac">AC</string>
+    <string name="non_ac">Non - AC</string>
+    <string name="check_in">Check in</string>
+    <string name="check_out">Check out</string>
+    <string name="show_details">Show Detail</string>
+    <string name="Book_now">Book Now</string>
+    <string name="Hotels">Hotels</string>
+    <string name="description">One of our top picks in Ratnapura. Offering garden views, Volunteer Ceylon in Ratnapura offers accommodation, a shared lounge, a garden and a terrace. The homestay features both WiFi and private parking free of charge</string>
+    <string name="My_booking">My Booking</string>
+    <string name="booking1">Booking1</string>
+    <string name="booking2">Booking2</string>
+    <string name="booking3">Booking3</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="payment">Payment</string>
+    <string name="payment_method">Payment Methods</string>
+    <string name="pay_pal">Paypal</string>
+    <string name="visa">Visa</string>
+    <string name="cash">Cash</string>
+    <string name="payment_details">Payment Detail</string>
+    <string name="card_no">Card Number</string>
+    <string name="expire_data">Expire Date</string>
+    <string name="cvv">CVV</string>
+    <string name="card_holder_name">Card Holder Name</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="pay_now">Pay Now</string>
+</resources>
